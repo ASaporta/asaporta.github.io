@@ -1,11 +1,19 @@
 .container {
   margin: 100px auto;
-  max-width: 550px;
+  max-width: 560px;
 }
 
-a:link, a:visited {
+a {
+  color: #ff5252;
   text-decoration: none;
-  color: inherit;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+i {
+  color: black;
 }
 
 h1 {
